@@ -1,0 +1,44 @@
+a {
+  text-decoration: none !important;
+}
+
+.img-logo {
+  width: 50px;
+  height: 50px;
+}
+
+.gold-class {
+  background-color: #ffd700 !important;
+}
+
+.silver-class {
+  background-color: #e3e4e5 !important;
+}
+
+.bronze-class {
+  background-color: #cd7f32 !important;
+}
+
+.text-color {
+  color: #000000 !important;
+}
+
+.logo-foot {
+  justify-content: center;
+  align-items: center;
+  display: flex;
+}
+
+.img-logo-2 {
+  width: 150px;
+  height: 150px;
+  margin: auto;
+}
+
+.bg-style {
+  background-color: #002050 !important;
+}
+
+.navbar-light .navbar-nav .nav-link {
+  color: #ffffff !important;
+}
